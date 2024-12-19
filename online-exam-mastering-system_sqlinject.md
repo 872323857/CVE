@@ -6,7 +6,9 @@ https://code-projects.org/online-exam-mastering-system-php/
 
 ## Vulnerability file
 
-account.php、dash.php
+account.php、dash.php 
+
+Prerequisite: You need to log in first
 
 ## describe
 
